@@ -1,3 +1,3 @@
-# vedema.github.io
+# https://github.com/dynamicsamson-byte
 
-Week 0 setup completed by Vivian Edema
+Week 0 setup completed by Samson
