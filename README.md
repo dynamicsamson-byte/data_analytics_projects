@@ -7,3 +7,5 @@ In this week, I learned:
 •The difference between data and information
 •What data analytics is
 •Key data roles and workflows
+
+# Week 2 
